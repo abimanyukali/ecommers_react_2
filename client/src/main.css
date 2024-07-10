@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    --webkit-font-smoothing:antialiased;
+    --moz-osx-font-smoothing:grayscale;
+    font-family: 'sans-serif','poppins';
+}
